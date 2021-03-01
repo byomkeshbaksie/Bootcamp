@@ -1,0 +1,135 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+* {
+  box-sizing: border-box;
+}
+
+dl > div {
+  background: #cecece;
+  padding: 24px 0 0 0;
+}
+
+dt {
+  background: #14213d;
+  border-bottom: 1px solid #606c38;
+  border-top: 1px solid #14213d;
+  color: #fff;
+  font: bold 18px/21px Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 2px 0 0 12px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: -1px;
+}
+
+dd {
+  font: bold 20px/45px "Raleway", Helvetica, sans-serif;
+  margin: 0;
+  padding: 0 0 0 12px;
+  white-space: nowrap;
+  background-image: url(./images/icons.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  
+}
+
+dd .menu1 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  
+}
+
+dd .menu2 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu3 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu4 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu5 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu6 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu7 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu8 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu9 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu10 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu11 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu12 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu13 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu14 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu15 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd .menu16 {
+  background-image: url(./images/phone.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+dd + dd {
+  border-top: 1px solid #ccc;
+}
